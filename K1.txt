@@ -1,7 +1,26 @@
-! Title: 山月群
+! Title: 山月群的普信男
 ! Description: 本座自用保护隐私规则。
-! Last modified: 2022-11-24 06:06:06
+! Last modified: 2022-12-12 06:06:06
 
+||fanxing.kugou.com^
+||ads.service.kugou.com^
+||mobilelog.kugou.com^
+||d.kugou.com^
+||log.web.kugou.com^
+||exceptionlog.kugou.com^
+||push.mobile.kugou.com^
+||log.stat.kugou.com^
+||adsfile.bssdlbig.kugou.com^
+||serveraddr.service.kugou.com^
+||msg.mobile.kugou.com^
+||splashimgbssdl.yun.kugou.com^
+||adserviceretry.kugou.com^
+||kgmobilestat.kugou.com^
+||mo.kugou.com^
+||update.mobile.kugou.com^
+||rtmonitor.kugou.com^
+||sdn.kugou.com^
+||tj.kugou.com^
 ||policy.video.iqiyi.com^
 ||puma-api.iqiyi.com^
 ||t7z.cupid.iqiyi.com^
