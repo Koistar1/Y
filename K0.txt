@@ -1,5 +1,5 @@
 ! Title: 万王之王万主之主
-! Description: 本座自用保护隐私规则。
+! Description: 最后大魔王。
 ! Last modified: 2022-12-25 06:06:06
 
 ||exceptionlog.kugou.com^
@@ -1179,8 +1179,3 @@
 ||ldapi.ldmnq.com/mnq/ld_file/*
 ||res.ldmnq.com/ld/leidian/*
 ||*.bitsum.com^
-||*.bandicam.com^
-||*.bandisoft.com^
-||*.topazlabs.com^
-||104.22.33.115
-||172.67.37.186
