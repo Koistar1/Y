@@ -1,6 +1,6 @@
-! Title: 万王之王万主之主
+! Title: ★ 万王之王万主之主 ☆
 ! Description: 最后大魔王。
-! Last modified: 2022-12-25 06:06:06
+! Last modified: 2023-02-14 08:08:08
 
 ||exceptionlog.kugou.com^
 ||log.web.kugou.com^
@@ -1163,6 +1163,7 @@
 ||gm.mmstat.com^
 ||ttc.gdt.qq.com^
 ||tangram.e.qq.com^
+||*.rising.com.cn^
 ||dldir1.qq.com^
 ||dldir1v6.qq.com^
 ||sz2tjextshort.weixin.qq.com^
