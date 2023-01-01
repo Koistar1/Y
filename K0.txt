@@ -1,6 +1,6 @@
 ! Title: ★ 万王之王万主之主 ☆
 ! Description: 最后大魔王。
-! Last modified: 2023-02-14 08:08:08
+! Last modified: 2023-02-22 08:08:08
 
 ||exceptionlog.kugou.com^
 ||log.web.kugou.com^
@@ -1163,7 +1163,7 @@
 ||gm.mmstat.com^
 ||ttc.gdt.qq.com^
 ||tangram.e.qq.com^
-||*.rising.com.cn^
+||rising.com.cn^
 ||dldir1.qq.com^
 ||dldir1v6.qq.com^
 ||sz2tjextshort.weixin.qq.com^
@@ -1172,11 +1172,11 @@
 ||szshort.weixin.qq.com^
 ||fm.dl.126.net^
 ||upext.chrome.360.cn^
-||*.xyaz.cn^
-||*.microvirt.com^
+||xyaz.cn^
+||microvirt.com^
 ||local.adguard.org^
 ||injections.adguard.org^
-||*.nvidia.com^
+||nvidia.com^
 ||ldapi.ldmnq.com/mnq/ld_file/*
 ||res.ldmnq.com/ld/leidian/*
-||*.bitsum.com^
+||bitsum.com^
