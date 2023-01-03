@@ -1206,6 +1206,7 @@
 ||zhundian.org^
 ||gilisoft.com^
 ||wisecleaner.com^
+||l.qq.com^
 ||ra.gtimg.com^
 ||livec.l.qq.com^
 ||daum.net^
