@@ -1,5 +1,5 @@
 ! Title: ★ 天下大同 ☆
-! Description: 李永生、赵无敌、张有才、张有财、张有菜。
+! Description: 弱肉强食，适者生存。时光前进，挡我者死。
 ! Last modified: 2088-11-25 00:00:00
 
 ||api-baas.flyme.cn^
@@ -112,7 +112,6 @@
 ||stats.darkreader.app^
 ||error.taobao.com^
 ||wps.cn^
-||duba.net^
 ||cfos.de^
 ||xmind.net^
 ||xmind.cn^
