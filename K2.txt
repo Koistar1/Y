@@ -31,8 +31,7 @@
 ||comodo.com^
 ||bandicam.com^
 ||bandisoft.com^
-||darkreader.github.io^
-||darkreader.org^
+||darkreader.*^
 ||stats.darkreader.app^
 ||wps.cn^
 ||cfos.de^
