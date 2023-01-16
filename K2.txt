@@ -5,6 +5,9 @@
 ||wxsnsdythumb.wxs.qq.com^
 ||huya.com.c.cdnhwc1.com^
 ||fileserver.cdn.huya.com.w.kunluncan.com^
+||po.baidu.com^
+||apkdown.zymk.cn^
+||pub.taptapdada.com^
 ||dns.weixin.qq.com^
 ||dldir1.qq.com^
 ||dldir1v6.qq.com^
@@ -19,8 +22,9 @@
 ||local.adguard.org^
 ||injections.adguard.org^
 ||nvidia.*^
-||ldapi.ldmnq.com/mnq/ld_file/*
-||res.ldmnq.com/ld/leidian/*
+||ldapi.ldmnq.com/mnq/ld_file/*^
+||res.ldmnq.com/ld/leidian/*^
+||api.bilibili.com/x/elec-frontend/update^
 ||bitsum.*^
 ||meitu.*^
 ||p2perrorlog.douyucdn.cn^
@@ -43,3 +47,4 @@
 ||ra.gtimg.com^
 ||daum.*^
 ||diskgenius.*^
+||ntp.org*^
