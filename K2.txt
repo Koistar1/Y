@@ -46,6 +46,7 @@
 ||ra.gtimg.com^
 ||daum.*^
 ||diskgenius.*^
+||enpass.*^
 ||*.zw^
 ||*.bd^
 ||*.ke^
