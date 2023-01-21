@@ -1,5 +1,5 @@
 ! Title: 永生无敌完美
-! Description: 宇宙就是幻想，主宰就是空想。
+! Description: 宇宙就是幻想，主宰就是空想，美好就是理想。
 ! Last modified: 2088-11-25 00:00:00
 ||wxsnsdy.wxs.qq.com^
 ||wxsnsdythumb.wxs.qq.com^
@@ -46,4 +46,4 @@
 ||ra.gtimg.com^
 ||daum.*^
 ||diskgenius.*^
-||ntp.org*^
+||*ucweb.*^
