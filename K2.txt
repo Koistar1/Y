@@ -1,5 +1,5 @@
 ! Title: 永生无敌完美
-! Description: 做官要长寿，做人要健康，做事要有乐趣。
+! Description: 宇宙就是幻想，主宰就是空想。
 ! Last modified: 2088-11-25 00:00:00
 ||wxsnsdy.wxs.qq.com^
 ||wxsnsdythumb.wxs.qq.com^
@@ -21,7 +21,6 @@
 ||microvirt.*^
 ||local.adguard.org^
 ||injections.adguard.org^
-||nvidia.*^
 ||ldapi.ldmnq.com/mnq/ld_file/*^
 ||res.ldmnq.com/ld/leidian/*^
 ||api.bilibili.com/x/elec-frontend/update^
