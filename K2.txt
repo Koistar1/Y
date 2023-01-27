@@ -13,6 +13,7 @@
 ||szshort.weixin.qq.com^
 ||fm.dl.126.net^
 ||upext.chrome.360.cn^
+||upext.se.360.cn^
 ||xyaz.*^
 ||microvirt.*^
 ||local.adguard.org^
