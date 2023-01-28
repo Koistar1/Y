@@ -3,7 +3,6 @@
 ! Last modified: 2088-11-25 00:00:00
 ||wxsnsdy.wxs.qq.com^
 ||wxsnsdythumb.wxs.qq.com^
-||dns.weixin.qq.com^
 ||apkdown.zymk.cn^
 ||pub.taptapdada.com^
 ||appcenter.ms^
