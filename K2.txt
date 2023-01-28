@@ -47,3 +47,4 @@
 ||daum.*^
 ||diskgenius.*^
 ||enpass.*^
+||ad.epochtimes.com^
