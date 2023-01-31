@@ -1,12 +1,5 @@
-! Title: 永生无敌完美，霸主霸体霸权，神无神大神极。
-! Description: 宇宙就是幻想，主宰就是空想，美好就是理想。秩序即朕压，混沌即吾序。
-! Last modified: 2088-11-25 00:00:00
-||wxsnsdy.wxs.qq.com^
-||wxsnsdythumb.wxs.qq.com^
 ||apkdown.zymk.cn^
 ||pub.taptapdada.com^
-||appcenter.ms^
-||po.baidu.com^
 ||dns.weixin.qq.com^
 ||dldir1.qq.com^
 ||dldir1v6.qq.com^
@@ -17,8 +10,6 @@
 ||fm.dl.126.net^
 ||upext.chrome.360.cn^
 ||upext.se.360.cn^
-||xyaz.*^
-||microvirt.*^
 ||local.adguard.org^
 ||injections.adguard.org^
 ||ldapi.ldmnq.com/mnq/ld_file/*^
@@ -26,25 +17,5 @@
 ||api.bilibili.com/x/elec-frontend/update^
 ||bitsum.*^
 ||meitu.*^
-||p2perrorlog.douyucdn.cn^
-||bluestacks.*^
-||bignox.*^
-||yeshen.*^
-||trnox.*^
 ||kuaou.*^
-||comodo.*^
-||bandicam.*^
-||bandisoft.*^
-||darkreader.*^
-||wps.*^
-||cfos.*^
-||xmind.*^
-||zhundian.*^
-||gilisoft.*^
-||wisecleaner.*^
-||l.qq.com^
-||ra.gtimg.com^
-||daum.*^
-||diskgenius.*^
 ||enpass.*^
-||ad.epochtimes.com^
