@@ -16,6 +16,6 @@
 ||res.ldmnq.com/ld/leidian/*^
 ||api.bilibili.com/x/elec-frontend/update^
 ||bitsum.*^
-||meitu.*^
-||kuaou.*^
 ||enpass.*^
+||ylog.huya.com^
+||update.googleapis.com^
