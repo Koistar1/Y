@@ -16,9 +16,9 @@
 ||res.ldmnq.com/ld/leidian/*^
 ||api.bilibili.com/x/elec-frontend/update^
 ||bitsum.*^
-||meitu.*^
-||kuaou.*^
 ||enpass.*^
+||ylog.huya.com^
+||update.googleapis.com^
 ||1oavsblobprodcus350.blob.core.windows.net^
 ||37bvsblobprodcus311.blob.core.windows.net^
 ||a.ads1.msn.com^
